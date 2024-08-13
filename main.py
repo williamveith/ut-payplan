@@ -1,12 +1,11 @@
 import requests
 import json
-import csv
 from pathlib import Path
-from typing import List, Union
 import math
 
 from classes import JobListing
 from configs import OUTPUT_PATH, KEYS, HEADERS
+from utilities import write_delim_file, write_spreadsheet, open_file
 
 
 def generate_get_url(query_params: dict = {}) -> requests.Response:
@@ -23,7 +22,9 @@ def generate_get_url(query_params: dict = {}) -> requests.Response:
     Example:
         response = generate_get_url({"draw": 1, "length": 100, "start": 0})
     """
-    base_url = "https://utdirect.utexas.edu/apps/hr/payplan/nlogon/profiles/datatable/data/"
+    base_url = (
+        "https://utdirect.utexas.edu/apps/hr/payplan/nlogon/profiles/datatable/data/"
+    )
     params = {
         "draw": query_params.get("draw", 0),
         "columns[0][data]": 0,
@@ -97,10 +98,10 @@ def save_payment_plan_data(data: list) -> None:
     """
     payment_plan_data = [dict(zip(KEYS, job)) for job in data]
     response_data = {"data": payment_plan_data}
-    
+
     path = Path(OUTPUT_PATH)
     path.parent.mkdir(parents=True, exist_ok=True)
-    
+
     with open(OUTPUT_PATH, "w") as file:
         json.dump(response_data, file, indent=4)
         print(f"Response data saved to: {OUTPUT_PATH}")
@@ -122,7 +123,9 @@ def get_payment_plan() -> dict:
         total_records = response_data.get("recordsTotal")
 
         if total_records is None:
-            print(f"Response object property 'recordsTotal' does not exist. Response data was: {response_data}")
+            print(
+                f"Response object property 'recordsTotal' does not exist. Response data was: {response_data}"
+            )
             print(f"Request Response: {initial_request}")
         else:
             all_data = fetch_all_data(total_records)
@@ -132,33 +135,10 @@ def get_payment_plan() -> dict:
         return json.load(file)
 
 
-def write_delim_file(path: Union[str, Path], data: List[List[str]], delim: str) -> None:
-    """
-    Writes a list of lists (data) to a file using a specified delimiter.
-
-    Args:
-        path (str or Path): The path where the file will be written.
-        data (list of lists): The data to be written to the file.
-        delim (str): The delimiter to use for separating entries in the file.
-
-    Returns:
-        None
-
-    Example:
-        write_delim_file("output.csv", data, ",")
-    """
-    path = Path(path)
-    path.parent.mkdir(parents=True, exist_ok=True)
-    
-    with path.open(mode="w", newline="") as file:
-        writer = csv.writer(file, delimiter=delim)
-        writer.writerows(data)
-
-
 if __name__ == "__main__":
     return_value = [HEADERS]
     payment_plan = get_payment_plan()
-    
+
     for data in payment_plan.get("data", []):
         job = JobListing(data)
         return_value.append(
@@ -175,3 +155,8 @@ if __name__ == "__main__":
         )
 
     write_delim_file(OUTPUT_PATH.with_suffix(".csv"), return_value, ",")
+    write_spreadsheet(
+        csv_file_path=OUTPUT_PATH.with_suffix(".csv"),
+        excel_file_path=OUTPUT_PATH.with_suffix(".xlsx"),
+    )
+    open_file(OUTPUT_PATH.with_suffix(".xlsx"))

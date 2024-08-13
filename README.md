@@ -1,6 +1,6 @@
 # UT Austin Pay Plan Data Scraper
 
-This project is a Python application designed to scrape, process, and store the UT Austin Pay Plan data from an online source. The data is fetched from an API, parsed into structured formats, and saved in both JSON and CSV formats for further analysis or use.
+This project is a Python application designed to scrape, process, and store the UT Austin Pay Plan data from an online source. The data is fetched from an API, parsed into structured formats, and saved in JSON, CSV, and XLSX formats for further analysis or use.
 
 ## Table of Contents
 
@@ -8,6 +8,7 @@ This project is a Python application designed to scrape, process, and store the 
   - [classes.py](#classespy)
   - [configs.py](#configspy)
   - [main.py](#mainpy)
+  - [utilities.py](#utilitiespy)
 - [Usage](#usage)
 - [Quick Install](#quick-install)
   - [Explanation of Installation Script](#explanation-of-installation-script)
@@ -239,6 +240,14 @@ This is the main script that orchestrates the scraping, processing, and output g
 
 - **`write_delim_file(path: Union[str, Path], data: List[List[str]], delim: str) -> None`**: Writes the processed data to a CSV file using the specified delimiter.
 
+### utilities.py
+
+The `utilities.py` file includes functions to format and process the job data:
+
+- **`format_job_data(df: pd.DataFrame) -> pd.DataFrame`**: Formats the columns of a DataFrame containing job data by converting text columns to strings, the 'Effective Date' column to datetime, and currency columns to float.
+- **`open_file(file_path: Union[str, Path]) -> None`**: Opens the Excel file once it has been created.
+- **`write_spreadsheet(csv_file_path: Union[str, Path], excel_file_path: Union[str, Path]) -> None`**: Converts a CSV file into an Excel spreadsheet, applying necessary formatting.
+
 ## Usage
 
 To run the project, execute the `main.py` script. The script will check if the `ut-austin_pay-plan.json` file exists. If not, it will fetch the data from the UT Austin API, process it, and store it in JSON and CSV formats.
@@ -261,6 +270,7 @@ git clone https://github.com/williamveith/ut-payplan.git
 cd ut-payplan
 python3 -m venv venv
 source venv/bin/activate
+pip install --upgrade pip
 pip install -r requirements.txt
 python main.py
 ```
@@ -284,6 +294,7 @@ python main.py
 3. **Install the required Python packages:**
 
     ```bash
+    pip install --upgrade pip
     pip install -r requirements.txt
     ```
 
