@@ -2,6 +2,16 @@
 
 This project is a Python application designed to scrape, process, and store the UT Austin Pay Plan data from an online source. The data is fetched from an API, parsed into structured formats, and saved in both JSON and CSV formats for further analysis or use.
 
+## Table of Contents
+
+- [Project Structure](#project-structure)
+  - [classes.py](#classespy)
+  - [configs.py](#configspy)
+  - [main.py](#mainpy)
+- [Usage](#usage)
+- [Quick Install](#quick-install)
+  - [Explanation of Installation Script](#explanation-of-installation-script)
+
 ## Project Structure
 
 The project is organized into three main components:
@@ -255,7 +265,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### Explanation of instillation script
+### Explanation of installation script
 
 1. **Clone the repository:**
 
