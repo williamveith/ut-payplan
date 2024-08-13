@@ -1,0 +1,1608 @@
+{
+    "draw": 0,
+    "recordsTotal": 1136,
+    "recordsFiltered": 1136,
+    "data": [
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6638/\">Abatement Technician (Hourly)</a>",
+            "Job ID (Job Code)": "6638",
+            "Job Category": "Occupational Health and Safety Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,568.00",
+            "Monthly Min - Max": "$3,281.20 - $5,130.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6638S/\">Abatement Technician (Salary)</a>",
+            "Job ID (Job Code)": "6638S",
+            "Job Category": "Occupational Health and Safety Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3095/\">Academic Advising Coordinator (Salary)</a>",
+            "Job ID (Job Code)": "3095",
+            "Job Category": "Student Advisory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,448.00 - $75,672.00",
+            "Monthly Min - Max": "$4,204.00 - $6,306.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9702/\">Academic Program Coordinator (9702) (Salary)</a>",
+            "Job ID (Job Code)": "9702",
+            "Job Category": "Program Coordinator Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,908.00 - $56,868.00",
+            "Monthly Min - Max": "$3,159.00 - $4,739.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9162/\">Accountant I (Salary)</a>",
+            "Job ID (Job Code)": "9162",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9161/\">Accountant II (9161) (Salary)</a>",
+            "Job ID (Job Code)": "9161",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $64,764.00",
+            "Monthly Min - Max": "$3,475.00 - $5,397.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9163/\">Accountant II (9163) (Salary)</a>",
+            "Job ID (Job Code)": "9163",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$47,484.00 - $64,764.00",
+            "Monthly Min - Max": "$3,957.00 - $5,397.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9160/\">Accountant III (Salary)</a>",
+            "Job ID (Job Code)": "9160",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,448.00 - $75,672.00",
+            "Monthly Min - Max": "$4,204.00 - $6,306.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9172S/\">Accounting Clerk I (Salary)</a>",
+            "Job ID (Job Code)": "9172S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $43,000.00",
+            "Monthly Min - Max": "$2,600.00 - $3,583.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9171/\">Accounting Clerk II (Hourly)</a>",
+            "Job ID (Job Code)": "9171",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9171S/\">Accounting Clerk II (Salary)</a>",
+            "Job ID (Job Code)": "9171S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9170/\">Accounting Clerk III (Hourly)</a>",
+            "Job ID (Job Code)": "9170",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9170S/\">Accounting Clerk III (Salary)</a>",
+            "Job ID (Job Code)": "9170S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9154/\">Accounting Group Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "9154",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$40,956.00 - $65,328.00",
+            "Monthly Min - Max": "$3,413.00 - $5,444.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9169/\">Accounting Technician (Hourly)</a>",
+            "Job ID (Job Code)": "9169",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,857.60 - $55,286.40",
+            "Monthly Min - Max": "$3,071.46 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9169S/\">Accounting Technician (Salary)</a>",
+            "Job ID (Job Code)": "9169S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,852.00 - $55,284.00",
+            "Monthly Min - Max": "$3,071.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9125/\">Accounting/Financial Professional (Part-Time) (Hourly)</a>",
+            "Job ID (Job Code)": "9125",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$62,400.00 - $93,953.60",
+            "Monthly Min - Max": "$5,200.00 - $7,829.46"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9125S/\">Accounting/Financial Professional (Part-Time) (Salary)</a>",
+            "Job ID (Job Code)": "9125S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$62,400.00 - $93,948.00",
+            "Monthly Min - Max": "$5,200.00 - $7,829.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9020/\">Administrative Assistant (Hourly)</a>",
+            "Job ID (Job Code)": "9020",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $50,252.80",
+            "Monthly Min - Max": "$2,600.00 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9020S/\">Administrative Assistant (Salary)</a>",
+            "Job ID (Job Code)": "9020S",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $50,256.00",
+            "Monthly Min - Max": "$2,600.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9026/\">Administrative Associate (Hourly)</a>",
+            "Job ID (Job Code)": "9026",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $59,716.80",
+            "Monthly Min - Max": "$2,600.00 - $4,976.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9026S/\">Administrative Associate (Salary)</a>",
+            "Job ID (Job Code)": "9026S",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $59,712.00",
+            "Monthly Min - Max": "$2,600.00 - $4,976.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9016/\">Administrative Manager (Salary)</a>",
+            "Job ID (Job Code)": "9016",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$53,000.00 - $100,700.00",
+            "Monthly Min - Max": "$4,416.66 - $8,391.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9706/\">Administrative Program Coordinator (9706) (Salary)</a>",
+            "Job ID (Job Code)": "9706",
+            "Job Category": "Program Coordinator Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9006/\">Administrative Services Officer I (Salary)</a>",
+            "Job ID (Job Code)": "9006",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$64,000.00 - $113,604.00",
+            "Monthly Min - Max": "$5,333.33 - $9,467.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9005/\">Administrative Services Officer II (Salary)</a>",
+            "Job ID (Job Code)": "9005",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$78,108.00 - $124,968.00",
+            "Monthly Min - Max": "$6,509.00 - $10,414.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9004/\">Administrative Services Officer III (Salary)</a>",
+            "Job ID (Job Code)": "9004",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$78,108.00 - $124,968.00",
+            "Monthly Min - Max": "$6,509.00 - $10,414.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3615/\">Admissions Counselor I (Hourly)</a>",
+            "Job ID (Job Code)": "3615",
+            "Job Category": "Admissions and Registration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,857.60 - $55,286.40",
+            "Monthly Min - Max": "$3,071.46 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3615S/\">Admissions Counselor I (Salary)</a>",
+            "Job ID (Job Code)": "3615S",
+            "Job Category": "Admissions and Registration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,852.00 - $55,284.00",
+            "Monthly Min - Max": "$3,071.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3614/\">Admissions Counselor II (Hourly)</a>",
+            "Job ID (Job Code)": "3614",
+            "Job Category": "Admissions and Registration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,568.00",
+            "Monthly Min - Max": "$3,281.20 - $5,130.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3614S/\">Admissions Counselor II (Salary)</a>",
+            "Job ID (Job Code)": "3614S",
+            "Job Category": "Admissions and Registration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9711/\">Alumni/Constituent Relations Program Coordinator (9711) (Salary)</a>",
+            "Job ID (Job Code)": "9711",
+            "Job Category": "Program Coordinator Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,087.00 - $62,556.00",
+            "Monthly Min - Max": "$3,423.91 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4458/\">Animal Attendant I (Hourly)</a>",
+            "Job ID (Job Code)": "4458",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4458S/\">Animal Attendant I (Salary)</a>",
+            "Job ID (Job Code)": "4458S",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4457/\">Animal Attendant II (Hourly)</a>",
+            "Job ID (Job Code)": "4457",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4457S/\">Animal Attendant II (Salary)</a>",
+            "Job ID (Job Code)": "4457S",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4456/\">Animal Attendant III (Hourly)</a>",
+            "Job ID (Job Code)": "4456",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $50,252.80",
+            "Monthly Min - Max": "$2,600.00 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4456S/\">Animal Attendant III (Salary)</a>",
+            "Job ID (Job Code)": "4456S",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $50,256.00",
+            "Monthly Min - Max": "$2,600.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4443/\">Animal Resources Manager (Salary)</a>",
+            "Job ID (Job Code)": "4443",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$67,128.00 - $110,700.00",
+            "Monthly Min - Max": "$5,594.00 - $9,225.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4447/\">Animal Resources Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "4447",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,905.60 - $68,785.60",
+            "Monthly Min - Max": "$3,825.46 - $5,732.13"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4447S/\">Animal Resources Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "4447S",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,900.00 - $68,784.00",
+            "Monthly Min - Max": "$3,825.00 - $5,732.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4451/\">Animal Resources Technologist I (Hourly)</a>",
+            "Job ID (Job Code)": "4451",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,379.20 - $55,286.40",
+            "Monthly Min - Max": "$3,031.60 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4451S/\">Animal Resources Technologist I (Salary)</a>",
+            "Job ID (Job Code)": "4451S",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,384.00 - $55,284.00",
+            "Monthly Min - Max": "$3,032.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4450/\">Animal Resources Technologist II (Hourly)</a>",
+            "Job ID (Job Code)": "4450",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,704.00 - $62,566.40",
+            "Monthly Min - Max": "$3,475.33 - $5,213.86"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/4450S/\">Animal Resources Technologist II (Salary)</a>",
+            "Job ID (Job Code)": "4450S",
+            "Job Category": "Research Laboratory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9341/\">Application Analyst (Salary)</a>",
+            "Job ID (Job Code)": "9341",
+            "Job Category": "Information Technology Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$55,488.00 - $83,232.00",
+            "Monthly Min - Max": "$4,624.00 - $6,936.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5410/\">Arborist I (Hourly)</a>",
+            "Job ID (Job Code)": "5410",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5410S/\">Arborist I (Salary)</a>",
+            "Job ID (Job Code)": "5410S",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5409/\">Arborist II (Hourly)</a>",
+            "Job ID (Job Code)": "5409",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,508.80 - $50,252.80",
+            "Monthly Min - Max": "$2,792.40 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5409S/\">Arborist II (Salary)</a>",
+            "Job ID (Job Code)": "5409S",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,504.00 - $50,256.00",
+            "Monthly Min - Max": "$2,792.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8040/\">Archives Translator (Hourly)</a>",
+            "Job ID (Job Code)": "8040",
+            "Job Category": "Library Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,704.00 - $62,566.40",
+            "Monthly Min - Max": "$3,475.33 - $5,213.86"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8040S/\">Archives Translator (Salary)</a>",
+            "Job ID (Job Code)": "8040S",
+            "Job Category": "Library Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8510/\">Archivist Assistant I (Hourly)</a>",
+            "Job ID (Job Code)": "8510",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$38,438.40 - $45,676.80",
+            "Monthly Min - Max": "$3,203.20 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8510S/\">Archivist Assistant I (Salary)</a>",
+            "Job ID (Job Code)": "8510S",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8511/\">Archivist Assistant II (Hourly)</a>",
+            "Job ID (Job Code)": "8511",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8511S/\">Archivist Assistant II (Salary)</a>",
+            "Job ID (Job Code)": "8511S",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8512/\">Archivist Assistant III (Hourly)</a>",
+            "Job ID (Job Code)": "8512",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,508.80 - $50,252.80",
+            "Monthly Min - Max": "$2,792.40 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8512S/\">Archivist Assistant III (Salary)</a>",
+            "Job ID (Job Code)": "8512S",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,504.00 - $50,256.00",
+            "Monthly Min - Max": "$2,792.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8515/\">Archivist I (Salary)</a>",
+            "Job ID (Job Code)": "8515",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,852.00 - $55,284.00",
+            "Monthly Min - Max": "$3,071.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8516/\">Archivist II (Salary)</a>",
+            "Job ID (Job Code)": "8516",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8517/\">Archivist III (Salary)</a>",
+            "Job ID (Job Code)": "8517",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,900.00 - $68,784.00",
+            "Monthly Min - Max": "$3,825.00 - $5,732.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8518/\">Archivist IV (Salary)</a>",
+            "Job ID (Job Code)": "8518",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,448.00 - $75,672.00",
+            "Monthly Min - Max": "$4,204.00 - $6,306.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8613/\">Art Director (Salary)</a>",
+            "Job ID (Job Code)": "8613",
+            "Job Category": "Journalism-Publication Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$67,000.00 - $100,700.00",
+            "Monthly Min - Max": "$5,583.33 - $8,391.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8340/\">Art Model (Hourly)</a>",
+            "Job ID (Job Code)": "8340",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,547.20",
+            "Monthly Min - Max": "$3,281.20 - $5,128.93"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8340S/\">Art Model (Salary)</a>",
+            "Job ID (Job Code)": "8340S",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,547.20",
+            "Monthly Min - Max": "$3,281.20 - $5,128.93"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8325/\">Art Registrar (Hourly)</a>",
+            "Job ID (Job Code)": "8325",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$40,809.60 - $67,932.80",
+            "Monthly Min - Max": "$3,400.80 - $5,661.06"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8325S/\">Art Registrar (Salary)</a>",
+            "Job ID (Job Code)": "8325S",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$40,800.00 - $67,932.00",
+            "Monthly Min - Max": "$3,400.00 - $5,661.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8335/\">Artist III (Hourly)</a>",
+            "Job ID (Job Code)": "8335",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,547.20",
+            "Monthly Min - Max": "$3,281.20 - $5,128.93"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8335S/\">Artist III (Salary)</a>",
+            "Job ID (Job Code)": "8335S",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,547.20",
+            "Monthly Min - Max": "$3,281.20 - $5,128.93"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3098/\">Assistant Academic Advisor (Hourly)</a>",
+            "Job ID (Job Code)": "3098",
+            "Job Category": "Student Advisory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,508.80 - $50,252.80",
+            "Monthly Min - Max": "$2,792.40 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3098S/\">Assistant Academic Advisor (Salary)</a>",
+            "Job ID (Job Code)": "3098S",
+            "Job Category": "Student Advisory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,504.00 - $50,256.00",
+            "Monthly Min - Max": "$2,792.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3541/\">Assistant Athletic Equipment Manager (Salary)</a>",
+            "Job ID (Job Code)": "3541",
+            "Job Category": "Athletic Activities Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$43,548.00 - $67,932.00",
+            "Monthly Min - Max": "$3,629.00 - $5,661.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/1351/\">Assistant Billing Specialist (Hourly)</a>",
+            "Job ID (Job Code)": "1351",
+            "Job Category": "Medical Records Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,918.40 - $56,867.20",
+            "Monthly Min - Max": "$3,159.86 - $4,738.93"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/1351S/\">Assistant Billing Specialist (Salary)</a>",
+            "Job ID (Job Code)": "1351S",
+            "Job Category": "Medical Records Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,908.00 - $56,868.00",
+            "Monthly Min - Max": "$3,159.00 - $4,739.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8371/\">Assistant Box Office Manager (Salary)</a>",
+            "Job ID (Job Code)": "8371",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6223/\">Assistant Building Attendant Leader (Hourly)</a>",
+            "Job ID (Job Code)": "6223",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6223S/\">Assistant Building Attendant Leader (Salary)</a>",
+            "Job ID (Job Code)": "6223S",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8129/\">Assistant Child Care Specialist (Hourly)</a>",
+            "Job ID (Job Code)": "8129",
+            "Job Category": "Training-Educational Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $42,993.60",
+            "Monthly Min - Max": "$2,600.00 - $3,582.80"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8129S/\">Assistant Child Care Specialist (Salary)</a>",
+            "Job ID (Job Code)": "8129S",
+            "Job Category": "Training-Educational Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $43,000.00",
+            "Monthly Min - Max": "$2,600.00 - $3,583.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8376/\">Assistant Communications and Marketing Manager (Salary)</a>",
+            "Job ID (Job Code)": "8376",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$35,568.00 - $51,696.00",
+            "Monthly Min - Max": "$2,964.00 - $4,308.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8091/\">Assistant Conservator I (Hourly)</a>",
+            "Job ID (Job Code)": "8091",
+            "Job Category": "Library Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8091S/\">Assistant Conservator I (Salary)</a>",
+            "Job ID (Job Code)": "8091S",
+            "Job Category": "Library Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8090/\">Assistant Conservator II (Hourly)</a>",
+            "Job ID (Job Code)": "8090",
+            "Job Category": "Library Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8090S/\">Assistant Conservator II (Salary)</a>",
+            "Job ID (Job Code)": "8090S",
+            "Job Category": "Library Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8089/\">Assistant Conservator III (Salary)</a>",
+            "Job ID (Job Code)": "8089",
+            "Job Category": "Library Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8104/\">Assistant Coordinator for Training (Salary)</a>",
+            "Job ID (Job Code)": "8104",
+            "Job Category": "Training-Educational Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,308.00 - $58,752.00",
+            "Monthly Min - Max": "$3,109.00 - $4,896.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9414/\">Assistant Data Scientist (Salary)</a>",
+            "Job ID (Job Code)": "9414",
+            "Job Category": "Information Technology Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$65,000.00 - $113,604.00",
+            "Monthly Min - Max": "$5,416.66 - $9,467.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8641/\">Assistant Editor (Hourly)</a>",
+            "Job ID (Job Code)": "8641",
+            "Job Category": "Journalism-Publication Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $42,993.60",
+            "Monthly Min - Max": "$2,600.00 - $3,582.80"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8641S/\">Assistant Editor (Salary)</a>",
+            "Job ID (Job Code)": "8641S",
+            "Job Category": "Journalism-Publication Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $43,000.00",
+            "Monthly Min - Max": "$2,600.00 - $3,583.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5219/\">Assistant Electrical and Instrument Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "5219",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$61,048.00 - $91,540.80",
+            "Monthly Min - Max": "$5,087.33 - $7,628.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5219S/\">Assistant Electrical and Instrument Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "5219S",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$61,032.00 - $91,536.00",
+            "Monthly Min - Max": "$5,086.00 - $7,628.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8373/\">Assistant Events Manager (Salary)</a>",
+            "Job ID (Job Code)": "8373",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$35,568.00 - $50,256.00",
+            "Monthly Min - Max": "$2,964.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6106/\">Assistant Food Service Manager (Salary)</a>",
+            "Job ID (Job Code)": "6106",
+            "Job Category": "Food Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6162/\">Assistant Food Service Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "6162",
+            "Job Category": "Food Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6162S/\">Assistant Food Service Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "6162S",
+            "Job Category": "Food Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5415/\">Assistant Grounds Maintenance Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "5415",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,508.80 - $50,252.80",
+            "Monthly Min - Max": "$2,792.40 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5415S/\">Assistant Grounds Maintenance Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "5415S",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,504.00 - $50,256.00",
+            "Monthly Min - Max": "$2,792.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5217/\">Assistant Instrument and Controls Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "5217",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$61,048.00 - $91,540.80",
+            "Monthly Min - Max": "$5,087.33 - $7,628.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5217S/\">Assistant Instrument and Controls Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "5217S",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$61,032.00 - $91,536.00",
+            "Monthly Min - Max": "$5,086.00 - $7,628.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5421/\">Assistant Landscape Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "5421",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,918.40 - $56,867.20",
+            "Monthly Min - Max": "$3,159.86 - $4,738.93"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5421S/\">Assistant Landscape Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "5421S",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,908.00 - $56,868.00",
+            "Monthly Min - Max": "$3,159.00 - $4,739.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9082/\">Assistant Mail Services Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "9082",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,857.60 - $55,286.40",
+            "Monthly Min - Max": "$3,071.46 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9082S/\">Assistant Mail Services Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "9082S",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,852.00 - $55,284.00",
+            "Monthly Min - Max": "$3,071.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9030/\">Assistant Manager (Hourly)</a>",
+            "Job ID (Job Code)": "9030",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,704.00 - $57,491.20",
+            "Monthly Min - Max": "$3,475.33 - $4,790.93"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9030S/\">Assistant Manager (Salary)</a>",
+            "Job ID (Job Code)": "9030S",
+            "Job Category": "Office and Business Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6230/\">Assistant Manager, Building Services (Salary)</a>",
+            "Job ID (Job Code)": "6230",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,448.00 - $74,724.00",
+            "Monthly Min - Max": "$4,204.00 - $6,227.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5430/\">Assistant Manager, Landscape Services (Salary)</a>",
+            "Job ID (Job Code)": "5430",
+            "Job Category": "Labor And Labor Supervision Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$46,812.00 - $70,212.00",
+            "Monthly Min - Max": "$3,901.00 - $5,851.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5127/\">Assistant Plant Maintenance Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "5127",
+            "Job Category": "Plant Operation Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$61,048.00 - $91,540.80",
+            "Monthly Min - Max": "$5,087.33 - $7,628.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5127S/\">Assistant Plant Maintenance Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "5127S",
+            "Job Category": "Plant Operation Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$67,128.00 - $100,700.00",
+            "Monthly Min - Max": "$5,594.00 - $8,391.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6440/\">Assistant Retail Manager (Hourly)</a>",
+            "Job ID (Job Code)": "6440",
+            "Job Category": "Stores and Supply Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $42,993.60",
+            "Monthly Min - Max": "$2,600.00 - $3,582.80"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6440S/\">Assistant Retail Manager (Salary)</a>",
+            "Job ID (Job Code)": "6440S",
+            "Job Category": "Stores and Supply Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $43,000.00",
+            "Monthly Min - Max": "$2,600.00 - $3,583.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8361/\">Assistant Technical Services Manager (Salary)</a>",
+            "Job ID (Job Code)": "8361",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$35,004.00 - $52,500.00",
+            "Monthly Min - Max": "$2,917.00 - $4,375.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5126/\">Assistant Utilities Operations Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "5126",
+            "Job Category": "Plant Operation Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$61,048.00 - $91,540.80",
+            "Monthly Min - Max": "$5,087.33 - $7,628.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5126S/\">Assistant Utilities Operations Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "5126S",
+            "Job Category": "Plant Operation Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$61,032.00 - $91,536.00",
+            "Monthly Min - Max": "$5,086.00 - $7,628.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3097/\">Associate Academic Advisor (Hourly)</a>",
+            "Job ID (Job Code)": "3097",
+            "Job Category": "Student Advisory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,568.00",
+            "Monthly Min - Max": "$3,281.20 - $5,130.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3097S/\">Associate Academic Advisor (Salary)</a>",
+            "Job ID (Job Code)": "3097S",
+            "Job Category": "Student Advisory Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9108/\">Associate Project Manager (Hourly)</a>",
+            "Job ID (Job Code)": "9108",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$47,486.40 - $67,932.80",
+            "Monthly Min - Max": "$3,957.20 - $5,661.06"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9108S/\">Associate Project Manager (Salary)</a>",
+            "Job ID (Job Code)": "9108S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$43,548.00 - $67,932.00",
+            "Monthly Min - Max": "$3,629.00 - $5,661.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3540/\">Athletic Equipment Manager (Salary)</a>",
+            "Job ID (Job Code)": "3540",
+            "Job Category": "Athletic Activities Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$52,215.00 - $81,459.00",
+            "Monthly Min - Max": "$4,351.25 - $6,788.25"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3545/\">Athletic Facility and Equipment Maintenance Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "3545",
+            "Job Category": "Athletic Activities Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,000.00 - $54,000.00",
+            "Monthly Min - Max": "$3,000.00 - $4,500.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8195/\">Athletic Mentor (Hourly)</a>",
+            "Job ID (Job Code)": "8195",
+            "Job Category": "Training-Educational Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,968.00",
+            "Monthly Min - Max": "$2,600.00 - $3,830.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8195S/\">Athletic Mentor (Salary)</a>",
+            "Job ID (Job Code)": "8195S",
+            "Job Category": "Training-Educational Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,960.00",
+            "Monthly Min - Max": "$2,600.00 - $3,830.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3535/\">Athletics Operations Coordinator (3535) (Salary)</a>",
+            "Job ID (Job Code)": "3535",
+            "Job Category": "Athletic Activities Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$34,464.00 - $51,696.00",
+            "Monthly Min - Max": "$2,872.00 - $4,308.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8574/\">Audio Visual Systems Installation Technician (Hourly)</a>",
+            "Job ID (Job Code)": "8574",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,857.60 - $55,286.40",
+            "Monthly Min - Max": "$3,071.46 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8574S/\">Audio Visual Systems Installation Technician (Salary)</a>",
+            "Job ID (Job Code)": "8574S",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,852.00 - $55,284.00",
+            "Monthly Min - Max": "$3,071.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9394/\">Audio Visual Systems Programmer (Salary)</a>",
+            "Job ID (Job Code)": "9394",
+            "Job Category": "Information Technology Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,448.00 - $75,672.00",
+            "Monthly Min - Max": "$4,204.00 - $6,306.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8570/\">Audio Visual Systems Support Technician (Hourly)</a>",
+            "Job ID (Job Code)": "8570",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,568.00",
+            "Monthly Min - Max": "$3,281.20 - $5,130.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8570S/\">Audio Visual Systems Support Technician (Salary)</a>",
+            "Job ID (Job Code)": "8570S",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8556/\">Audio-Visual Educational Specialist I (Hourly)</a>",
+            "Job ID (Job Code)": "8556",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8556S/\">Audio-Visual Educational Specialist I (Salary)</a>",
+            "Job ID (Job Code)": "8556S",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8555/\">Audio-Visual Educational Specialist II (Hourly)</a>",
+            "Job ID (Job Code)": "8555",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $50,252.80",
+            "Monthly Min - Max": "$2,600.00 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8555S/\">Audio-Visual Educational Specialist II (Salary)</a>",
+            "Job ID (Job Code)": "8555S",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,504.00 - $50,256.00",
+            "Monthly Min - Max": "$2,792.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8546/\">Audio-Visual Equipment Technician (Hourly)</a>",
+            "Job ID (Job Code)": "8546",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8546S/\">Audio-Visual Equipment Technician (Salary)</a>",
+            "Job ID (Job Code)": "8546S",
+            "Job Category": "Audio-Visual And Illustration Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9116/\">Audit Manager (Salary)</a>",
+            "Job ID (Job Code)": "9116",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$78,108.00 - $124,968.00",
+            "Monthly Min - Max": "$6,509.00 - $10,414.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9143/\">Auditor (Salary)</a>",
+            "Job ID (Job Code)": "9143",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$51,000.00 - $68,784.00",
+            "Monthly Min - Max": "$4,250.00 - $5,732.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6181/\">Baker (Hourly)</a>",
+            "Job ID (Job Code)": "6181",
+            "Job Category": "Food Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6181S/\">Baker (Salary)</a>",
+            "Job ID (Job Code)": "6181S",
+            "Job Category": "Food Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/1522/\">Behavioral Health Specialist (Salary)</a>",
+            "Job ID (Job Code)": "1522",
+            "Job Category": "Social Services Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9514/\">Benefits Specialist I (Salary)</a>",
+            "Job ID (Job Code)": "9514",
+            "Job Category": "Human Resources Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9513/\">Benefits Specialist II (Salary)</a>",
+            "Job ID (Job Code)": "9513",
+            "Job Category": "Human Resources Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,448.00 - $75,672.00",
+            "Monthly Min - Max": "$4,204.00 - $6,306.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8782/\">Bindery Equipment Operator I (Hourly)</a>",
+            "Job ID (Job Code)": "8782",
+            "Job Category": "Printing-Related Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8782S/\">Bindery Equipment Operator I (Salary)</a>",
+            "Job ID (Job Code)": "8782S",
+            "Job Category": "Printing-Related Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8781/\">Bindery Equipment Operator II (Hourly)</a>",
+            "Job ID (Job Code)": "8781",
+            "Job Category": "Printing-Related Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,504.00 - $55,286.40",
+            "Monthly Min - Max": "$3,042.00 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8781S/\">Bindery Equipment Operator II (Salary)</a>",
+            "Job ID (Job Code)": "8781S",
+            "Job Category": "Printing-Related Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,504.00 - $55,284.00",
+            "Monthly Min - Max": "$3,042.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8777/\">Bindery Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "8777",
+            "Job Category": "Printing-Related Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$47,694.40 - $74,401.60",
+            "Monthly Min - Max": "$3,974.53 - $6,200.13"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8777S/\">Bindery Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "8777S",
+            "Job Category": "Printing-Related Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$47,685.00 - $74,392.00",
+            "Monthly Min - Max": "$3,973.75 - $6,199.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5383/\">Boat Captain (Salary)</a>",
+            "Job ID (Job Code)": "5383",
+            "Job Category": "Mechanical And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$43,548.00 - $67,932.00",
+            "Monthly Min - Max": "$3,629.00 - $5,661.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/8370/\">Box Office Manager (Salary)</a>",
+            "Job ID (Job Code)": "8370",
+            "Job Category": "Fine Arts And Special Events Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,000.00 - $68,784.00",
+            "Monthly Min - Max": "$3,750.00 - $5,732.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9175/\">Budget Analyst (Salary)</a>",
+            "Job ID (Job Code)": "9175",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$55,488.00 - $83,232.00",
+            "Monthly Min - Max": "$4,624.00 - $6,936.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6226/\">Building Attendant I (Hourly)</a>",
+            "Job ID (Job Code)": "6226",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6226S/\">Building Attendant I (Salary)</a>",
+            "Job ID (Job Code)": "6226S",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6225/\">Building Attendant II (Hourly)</a>",
+            "Job ID (Job Code)": "6225",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $42,993.60",
+            "Monthly Min - Max": "$2,600.00 - $3,582.80"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6225S/\">Building Attendant II (Salary)</a>",
+            "Job ID (Job Code)": "6225S",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $43,000.00",
+            "Monthly Min - Max": "$2,600.00 - $3,583.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6222/\">Building Attendant Leader (Hourly)</a>",
+            "Job ID (Job Code)": "6222",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6222S/\">Building Attendant Leader (Salary)</a>",
+            "Job ID (Job Code)": "6222S",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5302/\">Building Automation Systems, Analyst (Hourly)</a>",
+            "Job ID (Job Code)": "5302",
+            "Job Category": "Mechanical And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,440.00 - $75,670.40",
+            "Monthly Min - Max": "$4,203.33 - $6,305.86"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5302S/\">Building Automation Systems, Analyst (Salary)</a>",
+            "Job ID (Job Code)": "5302S",
+            "Job Category": "Mechanical And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$50,448.00 - $75,672.00",
+            "Monthly Min - Max": "$4,204.00 - $6,306.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5303/\">Building Automation Systems, Operator (Hourly)</a>",
+            "Job ID (Job Code)": "5303",
+            "Job Category": "Mechanical And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,678.40 - $55,286.40",
+            "Monthly Min - Max": "$2,639.86 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5303S/\">Building Automation Systems, Operator (Salary)</a>",
+            "Job ID (Job Code)": "5303S",
+            "Job Category": "Mechanical And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,680.00 - $55,284.00",
+            "Monthly Min - Max": "$2,640.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6250/\">Building Monitor (Hourly)</a>",
+            "Job ID (Job Code)": "6250",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,006.40",
+            "Monthly Min - Max": "$2,600.00 - $4,000.53"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6250S/\">Building Monitor (Salary)</a>",
+            "Job ID (Job Code)": "6250S",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $48,000.00",
+            "Monthly Min - Max": "$2,600.00 - $4,000.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6217/\">Building Services Assistant Supervisor (Hourly)</a>",
+            "Job ID (Job Code)": "6217",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,857.60 - $55,286.40",
+            "Monthly Min - Max": "$3,071.46 - $4,607.20"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6217S/\">Building Services Assistant Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "6217S",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$36,852.00 - $55,284.00",
+            "Monthly Min - Max": "$3,071.00 - $4,607.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6215/\">Building Services Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "6215",
+            "Job Category": "Building Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9347/\">Business Analyst (Salary)</a>",
+            "Job ID (Job Code)": "9347",
+            "Job Category": "Information Technology Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$47,685.00 - $75,672.00",
+            "Monthly Min - Max": "$3,973.75 - $6,306.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9040/\">Business Development Manager (Salary)</a>",
+            "Job ID (Job Code)": "9040",
+            "Job Category": "Staff Service Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$55,488.00 - $83,232.00",
+            "Monthly Min - Max": "$4,624.00 - $6,936.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9686/\">Business Office Specialist I (Hourly)</a>",
+            "Job ID (Job Code)": "9686",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,508.80 - $50,252.80",
+            "Monthly Min - Max": "$2,792.40 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9686S/\">Business Office Specialist I (Salary)</a>",
+            "Job ID (Job Code)": "9686S",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,504.00 - $50,256.00",
+            "Monthly Min - Max": "$2,792.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9684/\">Business Office Specialist II (Salary)</a>",
+            "Job ID (Job Code)": "9684",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,908.00 - $56,868.00",
+            "Monthly Min - Max": "$3,159.00 - $4,739.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9683/\">Business Office Specialist III (Salary)</a>",
+            "Job ID (Job Code)": "9683",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9682/\">Business Office Specialist Manager (Salary)</a>",
+            "Job ID (Job Code)": "9682",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$55,488.00 - $83,232.00",
+            "Monthly Min - Max": "$4,624.00 - $6,936.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9652/\">Buyer I (Hourly)</a>",
+            "Job ID (Job Code)": "9652",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,508.80 - $50,252.80",
+            "Monthly Min - Max": "$2,792.40 - $4,187.73"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9652S/\">Buyer I (Salary)</a>",
+            "Job ID (Job Code)": "9652S",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$33,504.00 - $50,256.00",
+            "Monthly Min - Max": "$2,792.00 - $4,188.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9651/\">Buyer II (Salary)</a>",
+            "Job ID (Job Code)": "9651",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$37,908.00 - $56,868.00",
+            "Monthly Min - Max": "$3,159.00 - $4,739.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9650/\">Buyer III (Salary)</a>",
+            "Job ID (Job Code)": "9650",
+            "Job Category": "Purchasing Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5072/\">CADD Specialist (Hourly)</a>",
+            "Job ID (Job Code)": "5072",
+            "Job Category": "Engineering Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,568.00",
+            "Monthly Min - Max": "$3,281.20 - $5,130.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5072S/\">CADD Specialist (Salary)</a>",
+            "Job ID (Job Code)": "5072S",
+            "Job Category": "Engineering Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5086/\">CADD Supervisor (Salary)</a>",
+            "Job ID (Job Code)": "5086",
+            "Job Category": "Engineering Management Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$43,548.00 - $67,932.00",
+            "Monthly Min - Max": "$3,629.00 - $5,661.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5251/\">Cabinetmaker (Hourly)</a>",
+            "Job ID (Job Code)": "5251",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,374.40 - $61,568.00",
+            "Monthly Min - Max": "$3,281.20 - $5,130.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5251S/\">Cabinetmaker (Salary)</a>",
+            "Job ID (Job Code)": "5251S",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$39,384.00 - $61,564.00",
+            "Monthly Min - Max": "$3,282.00 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9985/\">Camp Counselor (Hourly)</a>",
+            "Job ID (Job Code)": "9985",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9985S/\">Camp Counselor (Salary)</a>",
+            "Job ID (Job Code)": "9985S",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9986/\">Camp Director (Hourly)</a>",
+            "Job ID (Job Code)": "9986",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,011.20 - $109,990.40",
+            "Monthly Min - Max": "$3,750.93 - $9,165.86"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9986S/\">Camp Director (Non Exempt) (Salary)</a>",
+            "Job ID (Job Code)": "9986S",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,000.00 - $109,980.00",
+            "Monthly Min - Max": "$3,750.00 - $9,165.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9980/\">Camp Director (Salary)</a>",
+            "Job ID (Job Code)": "9980",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,000.00 - $109,980.00",
+            "Monthly Min - Max": "$3,750.00 - $9,165.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9987/\">Camp Specialist (Hourly)</a>",
+            "Job ID (Job Code)": "9987",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$34,049.60 - $55,016.00",
+            "Monthly Min - Max": "$2,837.46 - $4,584.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9987S/\">Camp Specialist (Non Exempt) (Salary)</a>",
+            "Job ID (Job Code)": "9987S",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$34,044.00 - $55,008.00",
+            "Monthly Min - Max": "$2,837.00 - $4,584.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9981/\">Camp Specialist (Salary)</a>",
+            "Job ID (Job Code)": "9981",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$34,044.00 - $55,008.00",
+            "Monthly Min - Max": "$2,837.00 - $4,584.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9983/\">Camp Worker (Hourly)</a>",
+            "Job ID (Job Code)": "9983",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9983S/\">Camp Worker (Salary)</a>",
+            "Job ID (Job Code)": "9983S",
+            "Job Category": "Working with Minors",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/6318/\">Captain, University Police (Salary)</a>",
+            "Job ID (Job Code)": "6318",
+            "Job Category": "Police Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$105,643.00 - $153,902.00",
+            "Monthly Min - Max": "$8,803.58 - $12,825.16"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3112/\">Career Counselor I (Salary)</a>",
+            "Job ID (Job Code)": "3112",
+            "Job Category": "Testing and Counseling Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$41,700.00 - $62,556.00",
+            "Monthly Min - Max": "$3,475.00 - $5,213.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/3111/\">Career Counselor II (Salary)</a>",
+            "Job ID (Job Code)": "3111",
+            "Job Category": "Testing and Counseling Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$45,900.00 - $68,784.00",
+            "Monthly Min - Max": "$3,825.00 - $5,732.00"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5235/\">Carpenter (Hourly)</a>",
+            "Job ID (Job Code)": "5235",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$38,937.60 - $61,568.00",
+            "Monthly Min - Max": "$3,244.80 - $5,130.66"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/5235S/\">Carpenter (Salary)</a>",
+            "Job ID (Job Code)": "5235S",
+            "Job Category": "Building And Allied Trades Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$38,939.00 - $61,564.00",
+            "Monthly Min - Max": "$3,244.91 - $5,130.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9181/\">Cashier I (Hourly)</a>",
+            "Job ID (Job Code)": "9181",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $42,993.60",
+            "Monthly Min - Max": "$2,600.00 - $3,582.80"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9181S/\">Cashier I (Salary)</a>",
+            "Job ID (Job Code)": "9181S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $43,000.00",
+            "Monthly Min - Max": "$2,600.00 - $3,583.33"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9180/\">Cashier II (Hourly)</a>",
+            "Job ID (Job Code)": "9180",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,676.80",
+            "Monthly Min - Max": "$2,600.00 - $3,806.40"
+        },
+        {
+            "Job Title": "<a href=\"/apps/hr/payplan/nlogon/profile/9180S/\">Cashier II (Salary)</a>",
+            "Job ID (Job Code)": "9180S",
+            "Job Category": "Fiscal and Accounting Titles",
+            "Effective Date": "09/01/2023",
+            "Annual Min - Max": "$31,200.00 - $45,684.00",
+            "Monthly Min - Max": "$2,600.00 - $3,807.00"
+        }
+    ],
+    "result": "ok"
+}
