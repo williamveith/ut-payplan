@@ -77,8 +77,7 @@ def format_job_data(df: pd.DataFrame) -> pd.DataFrame:
 
     currency_columns = ['Annual Min', 'Annual Max', 'Monthly Min', 'Monthly Max']
     for column in currency_columns:
-        df[column] = df[column].replace('[\$,]', '', regex=True).astype(float)
-    
+        df[column] = df[column].replace(r'[\$,]', '', regex=True).astype(float)
     return df
 
 def write_spreadsheet(csv_file_path: Union[str, Path], excel_file_path: Union[str, Path]) -> None:
