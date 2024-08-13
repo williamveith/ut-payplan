@@ -11,6 +11,7 @@ This project is a Python application designed to scrape, process, and store the 
   - [utilities.py](#utilitiespy)
 - [Usage](#usage)
 - [Standard Quick Install](#standard-quick-install)
+  - [Quick Install Video Demo](#quick-install-video-demo)
   - [Explanation of Installation Script](#explanation-of-installation-script)
 - [Docker Quick Install](#docker-quick-install)
   - [Explanation of Docker Installation Script](#explanation-of-docker-installation-script)
@@ -281,6 +282,10 @@ pip install --upgrade pip
 pip install -r requirements.txt
 python main.py
 ```
+
+### Quick Install Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/03rc_4V4hnE/maxresdefault.jpg)](https://youtu.be/03rc_4V4hnE)
 
 ### Explanation of installation script
 
