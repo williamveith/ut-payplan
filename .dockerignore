@@ -1,0 +1,8 @@
+**/*.DS_Store
+venv
+data/*
+**__pycache__**
+.vscode
+.gitignore
+*.md
+.git

@@ -10,25 +10,31 @@ This project is a Python application designed to scrape, process, and store the 
   - [main.py](#mainpy)
   - [utilities.py](#utilitiespy)
 - [Usage](#usage)
-- [Quick Install](#quick-install)
+- [Standard Quick Install](#standard-quick-install)
   - [Explanation of Installation Script](#explanation-of-installation-script)
+- [Docker Quick Install](#docker-quick-install)
+  - [Explanation of Docker Installation Script](#explanation-of-docker-installation-script)
 
 ## Project Structure
 
-The project is organized into three main components:
+The project is organized into four main components:
 
 1. **classes.py**: Contains the `JobListing` class, which is used to parse and manage job data.
 2. **configs.py**: Defines constants such as the output file path and keys used for mapping and headers in the final output.
 3. **main.py**: The main script that handles the data scraping, processing, and storage operations.
+4. **utilities.py**: Contains utility functions like `format_job_data`, `open_file`, and `write_spreadsheet` for processing and formatting job data.
 
 ```txt
-PayPlan
+ut-payplan
+├── Dockerfile
 ├── README.md
 ├── classes.py
 ├── configs.py
 ├── data
 ├── main.py
-└── requirements.txt
+├── requirements.txt
+├── setup.sh
+└── utilities.py
 ```
 
 ### classes.py
@@ -260,8 +266,9 @@ The output files will be stored in the `data/` directory:
 
 - `ut-austin_pay-plan.json`: Contains the raw data in JSON format.
 - `ut-austin_pay-plan.csv`: Contains the processed data in CSV format.
+- `ut-austin_pay-plan.xlsx`: Contains the processed data in XLSX format.
 
-## Quick Install
+## Standard Quick Install
 
 Copy and paste the following into the terminal to install, setup, and run program on MacOS:
 
@@ -302,4 +309,41 @@ python main.py
 
     ```bash
     python main.py
+    ```
+
+## Docker Quick Install
+
+A docker build was created to deal with any cross platform issues that may occur. Copy and paste this into your terminal to build and run the docker container. The excel data will then be generated and placed in the current folder under ut-payplan.
+
+```bash
+git clone https://github.com/williamveith/ut-payplan.git
+cd ut-payplan
+docker build -t ut-payplan .
+docker run -v "$(pwd):/app/data" ut-payplan
+```
+
+### Explanation of docker installation script
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/williamveith/ut-payplan.git
+   ```
+
+2. **Navigate to the project directory**:
+
+    ```bash
+    cd ut-payplan
+    ```
+
+3. **Build the Docker image**:
+
+    ```bash
+    docker build -t ut-payplan .
+    ```
+
+4. **Run the Docker container with volume mounting**:
+
+    ```bash
+    docker run -v "$(pwd):/app/data" ut-payplan
     ```

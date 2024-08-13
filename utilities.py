@@ -5,6 +5,7 @@ import os
 import pandas as pd
 from typing import List, Union
 from pathlib import Path
+from configs import OUTPUT_PATH
 
 def open_file(file_path: Union[str, Path]) -> None:
     """
@@ -16,6 +17,11 @@ def open_file(file_path: Union[str, Path]) -> None:
     Returns:
         None
     """
+    if os.path.exists('/.dockerenv'):
+        print(f"Excel file saved at: {OUTPUT_PATH.with_suffix('.xlsx')}")
+        return
+
+        
     if platform.system() == 'Darwin':  # macOS
         subprocess.call(['open', file_path])
     elif platform.system() == 'Linux':  # Linux
