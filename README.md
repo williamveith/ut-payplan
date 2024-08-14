@@ -285,7 +285,7 @@ python main.py
 
 ### Quick Install Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/03rc_4V4hnE/maxresdefault.jpg)](https://youtu.be/03rc_4V4hnE)
+[<img src="https://img.youtube.com/vi/03rc_4V4hnE/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=03rc_4V4hnE "Video Demo")
 
 ### Explanation of installation script
 
